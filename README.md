@@ -2,6 +2,8 @@
 
 This project demonstrates the implementation of three powerful machine learning models for regression tasks: Support Vector Machine (SVM), Multi-Layer Perceptron (MLP) with two hidden layers, and Random Forest. All models are built from scratch, showcasing the underlying algorithms and principles without relying on high-level libraries like scikit-learn. Additionally, Principal Component Analysis (PCA) was employed to preprocess the data and enhance model performance.
 
+The performance of the models was tested for predicting crime rates using the Communities and Crime dataset from Kaggle. The dataset provides detailed information about various communities and their respective crime statistics, enabling the development of machine learning models to understand and predict violent crime rates in different areas.
+
 ## Project Overview
 
 The primary objective of this project is to predict continuous outcomes based on a given dataset, utilizing the three different models mentioned above. Each model was meticulously crafted to handle regression tasks, allowing for a comprehensive understanding of their functionality and performance.
